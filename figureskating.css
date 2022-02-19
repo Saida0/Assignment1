@@ -1,13 +1,13 @@
 body {
     font-family: Gill Sans, sans-serif;
-    background-color: lightcyan;
+    background-color: lavender;
     text-align: center;
-    }
+}
     
 a {
     text-decoration: none;
-    color: lightcyan;
-    background-color: darkblue;
+    color: lavender;
+    background-color: darkorchid;
     padding: 10px;
 }
 
