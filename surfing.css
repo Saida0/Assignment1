@@ -1,0 +1,18 @@
+body {
+    font-family: Tahoma;
+    background-color: #DDE1FF;
+}
+h1 {
+    text-align: center;
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.page-button {
+    color: white;
+    background-color: #0010A0;
+}
