@@ -11,3 +11,8 @@ img {
     margin-left: auto;
     margin-right: auto;
 }
+
+.page-button {
+    color: white;
+    background-color: purple;
+}
